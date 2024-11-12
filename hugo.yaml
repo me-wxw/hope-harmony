@@ -1,0 +1,73 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Hope & Harmony
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Newsletter
+      pageRef: /docs
+      weight: 1
+    - name: About
+      pageRef: /about
+      weight: 2
+    - name: Search
+      weight: 4
+      params:
+        type: search
+
+enableInlineShortcodes: true
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false
+    # logo:
+    #   path: images/logo.svg
+    #   dark: images/logo-dark.svg
+    # width: 40
+    # height: 20
+    # link: /
+    # width: wide
+
+  footer:
+    displayCopyright: true
+    displayPoweredBy: false
+
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+
+  editURL:
+    enable: false
+    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+
+    # Search
+  # flexsearch is enabled by default
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
+      # full | forward | reverse | strict
+      # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
+      tokenize: forward
