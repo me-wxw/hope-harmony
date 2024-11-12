@@ -1,7 +1,7 @@
 ---
 title: "Newsletter"
 date: 2024-11-08T22:34:26-05:00
-draft: true
+draft: false
 toc: true
 cascade:
   type: docs
