@@ -34,6 +34,8 @@ There is not a day that goes by where I am not overfilled with gratitude to God 
 
 ### with Brett F
 
+![landscape](wnc.jpg)
+
 The mountain landscape was punctuated with downed trees, ruined homes, and debris. The devastation was still strikingly apparent. An area he had visited several times before was now the setting of catastrophe following Hurricane Helene. Brett F and a few crewmen from Union County Water traveled to the Asheville and Black Mountain area to assist in re-establishing sewer infrastructure. The crew cleaned up multiple sites for sewer line continuity, located manholes, and redug a manhole.
 
 During excavations and clean-up, various debris was unearthed, but one thing stood out to him. It was a Bible. Caked with mud, he decided to pick it up and give it a closer look. When he opened it, the text was still clearly readable. It was a visual reminder that while the storm has destroyed so much, the Word of God still stands.
@@ -75,6 +77,8 @@ The best way to develop a thankful spirit is to make a daily habit of gratitude.
 Express your thanks to God, and the people around you. Write a note, send a text, make a phone call, however you want to do it let someone know you appreciate them! Make Thanksgiving more than just an annual tradition, make it a daily routine to better your health and spirit.
 
 ## Thankful For’s
+
+![landscape](fall-leaf.jpg)
 
 Every night, my daughter and I say our “thankful for’s.” We list aloud all the things for which we thank God. The list always includes family and pets, sometimes teachers and friends, and some things give me an insight into what my toddler treasures. I am often surprised at her appreciation of small things, like leaves and hugs. In the spirit of Thanksgiving, our Sunday School classes tell us their “Thankful For’s”:
 
@@ -122,9 +126,9 @@ Every night, my daughter and I say our “thankful for’s.” We list aloud all
 
 ## Upcoming Events
 
-- Brotherhood Breakfast - `Nov 24th, 8:00 AM`
-- Advent Begins - `Dec 1st`
-- Christmas Play - `Dec 15th, 6:00 PM`
+- Brotherhood Breakfast - `November 24th, 8:00 AM`
+- Advent Begins - `December 1st`
+- Christmas Play - `December 15th, 6:00 PM`
 
 ## MEBC Highlights
 
