@@ -2,6 +2,10 @@ baseURL: https://me-wxw.github.io/hope-harmony/
 languageCode: en-us
 title: Hope & Harmony
 
+services:
+  googleAnalytics:
+    ID: G-Z7HE93G29V
+
 module:
   imports:
     - path: github.com/imfing/hextra
@@ -71,7 +75,3 @@ params:
       # full | forward | reverse | strict
       # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
       tokenize: forward
-
-  services:
-    googleAnalytics:
-      ID: G-Z7HE93G29V
