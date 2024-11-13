@@ -71,3 +71,7 @@ params:
       # full | forward | reverse | strict
       # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
       tokenize: forward
+
+  services:
+    googleAnalytics:
+      ID: G-Z7HE93G29V
