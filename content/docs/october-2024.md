@@ -1,14 +1,14 @@
 ---
-title: "October 2024"
-date: 2024-10-08T23:19:12-05:00
-draft: false
 cascade:
   type: docs
 sidebar:
   open: true
+title: October 2024
+date: 2024-10-16T04:00:00.000Z
+draft: false
 ---
 
-![landscape](north-lights-nc.webp)
+![landscape](/images/north-lights-nc.webp)
 
 ## Welcome
 
@@ -95,8 +95,8 @@ A creamy, delicious dip that includes all the tastes of fall.
 #### Directions
 
 1. Mix all ingredients with a mixer until well combined.
-1. Place in refrigerator to cool.
-1. Serve with ginger snaps (to dip).
+2. Place in refrigerator to cool.
+3. Serve with ginger snaps (to dip).
 
 ## Wisdom Center
 

@@ -1,14 +1,14 @@
 ---
-title: "November 2024"
-date: 2024-11-08T23:19:12-05:00
-draft: false
 cascade:
   type: docs
 sidebar:
   open: true
+title: November 2024
+date: 2024-11-13T05:00:00.000Z
+draft: false
 ---
 
-![landscape](fall-road.jpg)
+![landscape](/images/fall-road.jpg)
 
 ## Welcome
 
@@ -34,7 +34,7 @@ There is not a day that goes by where I am not overfilled with gratitude to God 
 
 ### with Brett F
 
-![landscape](wnc.jpg)
+![landscape](/images/wnc.jpg)
 
 The mountain landscape was punctuated with downed trees, ruined homes, and debris. The devastation was still strikingly apparent. An area he had visited several times before was now the setting of catastrophe following Hurricane Helene. Brett F and a few crewmen from Union County Water traveled to the Asheville and Black Mountain area to assist in re-establishing sewer infrastructure. The crew cleaned up multiple sites for sewer line continuity, located manholes, and redug a manhole.
 
@@ -52,9 +52,9 @@ Our willingness to help those in need stems from our faith. Our desire to be lik
 
 > "By this everyone will know that you are my disciples, if you love one another."<br>[John 13:35](https://www.bible.com/bible/111/jhn.13.35)
 
-{{< callout type="info" >}}
-We would love to feature others in our church who have provided relief efforts in response to Hurricane Helene. Please contact us at <mebc3703@gmail.com> with any leads.
-{{< /callout >}}
+{{\< callout type="info" >}}
+We would love to feature others in our church who have provided relief efforts in response to Hurricane Helene. Please contact us at [mebc3703@gmail.com](mailto:mebc3703@gmail.com) with any leads.
+{{\< /callout >}}
 
 ## A Thankful Spirit is a Healthy Spirit
 
@@ -78,7 +78,7 @@ Express your thanks to God, and the people around you. Write a note, send a text
 
 ## Thankful For’s
 
-![landscape](fall-leaf.jpg)
+![landscape](/images/fall-leaf.jpg)
 
 Every night, my daughter and I say our “thankful for’s.” We list aloud all the things for which we thank God. The list always includes family and pets, sometimes teachers and friends, and some things give me an insight into what my toddler treasures. I am often surprised at her appreciation of small things, like leaves and hugs. In the spirit of Thanksgiving, our Sunday School classes tell us their “Thankful For’s”:
 
