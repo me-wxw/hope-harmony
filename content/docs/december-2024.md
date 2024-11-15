@@ -1,10 +1,12 @@
 ---
-date: "2024-11-14T17:27:32-05:00"
+title: December 2024
+date: 2024-11-14T22:27:32.000Z
 draft: true
-title: "December 2024"
 ---
 
 ## Welcome
+
+![](/images/fall-leaf.jpg)
 
 ## Advent Devotionals
 

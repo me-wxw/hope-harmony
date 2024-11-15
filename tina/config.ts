@@ -21,13 +21,45 @@ export default defineConfig({
   },
   media: {
     tina: {
-      mediaRoot: "",
-      publicFolder: "static/images",
+      publicFolder: "static",
+      mediaRoot: "/images",
     },
   },
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
   schema: {
     collections: [
+      {
+        name: "events",
+        label: "Events",
+        path: "content/events",
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Date",
+            required: true,
+          },
+          {
+            type: "boolean",
+            name: "draft",
+            label: "Draft",
+            required: true,
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
       {
         name: "docs",
         label: "Newsletter",

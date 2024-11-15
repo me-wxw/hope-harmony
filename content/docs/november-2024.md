@@ -52,9 +52,9 @@ Our willingness to help those in need stems from our faith. Our desire to be lik
 
 > "By this everyone will know that you are my disciples, if you love one another."<br>[John 13:35](https://www.bible.com/bible/111/jhn.13.35)
 
-{{\< callout type="info" >}}
+{{< callout type="info" >}}
 We would love to feature others in our church who have provided relief efforts in response to Hurricane Helene. Please contact us at [mebc3703@gmail.com](mailto:mebc3703@gmail.com) with any leads.
-{{\< /callout >}}
+{{< /callout >}}
 
 ## A Thankful Spirit is a Healthy Spirit
 
