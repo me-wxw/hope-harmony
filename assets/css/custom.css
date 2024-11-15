@@ -1,5 +1,25 @@
 :root {
-  --primary-hue: 144deg;
-  --primary-saturation: 90%;
-  --primary-lightness: 50%;
+  --primary-hue: 160deg;
+  --primary-saturation: 84%;
+  --primary-lightness: 39%;
+  --emerald-50: #ecfdf5;
+  --emerald-100: #d1fae585;
+  --emerald-900: #064e3b80;
+  --emerald-950: #022c22;
+}
+
+.nav-container-blur:is(html[class~="dark"] *) {
+  background-color: var(--emerald-950) !important;
+}
+
+body:is(html[class~="dark"] *) {
+  color: var(--emerald-50);
+}
+
+.nav-container-blur {
+  background-color: var(--emerald-100);
+}
+
+body {
+  color: var(--emerald-950);
 }

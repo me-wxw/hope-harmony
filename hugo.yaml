@@ -38,14 +38,13 @@ enableInlineShortcodes: true
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
-    # logo:
-    #   path: images/logo.svg
-    #   dark: images/logo-dark.svg
-    # width: 40
-    # height: 20
-    # link: /
-    # width: wide
+    displayLogo: true
+    logo:
+      path: images/church.svg
+      dark: images/church-dark.svg
+    width: 40
+    height: 20
+    link: /
 
   footer:
     displayCopyright: true

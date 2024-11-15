@@ -8,6 +8,8 @@ _build:
   list: false
 ---
 
+{{< hextra/hero-button text="Get Started" link="/hope-harmony/docs" >}}
+
 ### Christmas Play
 
 - **Date:** December 15
