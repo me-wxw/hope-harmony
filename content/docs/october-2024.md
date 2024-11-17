@@ -10,8 +10,6 @@ draft: false
 
 ![landscape](/images/north-lights-nc.webp)
 
-{{% trinity-audio %}}
-
 ## Welcome
 
 Hello and welcome to our first issue of Mary Elizabeth Baptist Church’s (MEBC) newsletter. We are excited about this opportunity to promote communication and involvement within our church family & community. Our goals for this newsletter are to bring awareness of our ministries and missions, create a feeling of community among members, and bring joy and connection to all of our readers. We hope this regular publication brings a breath of fresh air to your mailbox or inbox, as well as the content to keep you informed about our church and in touch with the Spirit. Newsletters will feature interviews, guest authors, event calendars, and “Food for the Soul,” a section devoted to bringing inspiration and a smile.
