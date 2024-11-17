@@ -36,6 +36,8 @@ There is not a day that goes by where I am not overfilled with gratitude to God 
 
 ![landscape](/images/wnc.jpg)
 
+{{< spotify type="episode" id="6B9uVWu8DjajTBSpmPPN78" width="100%" >}}
+
 The mountain landscape was punctuated with downed trees, ruined homes, and debris. The devastation was still strikingly apparent. An area he had visited several times before was now the setting of catastrophe following Hurricane Helene. Brett F and a few crewmen from Union County Water traveled to the Asheville and Black Mountain area to assist in re-establishing sewer infrastructure. The crew cleaned up multiple sites for sewer line continuity, located manholes, and redug a manhole.
 
 During excavations and clean-up, various debris was unearthed, but one thing stood out to him. It was a Bible. Caked with mud, he decided to pick it up and give it a closer look. When he opened it, the text was still clearly readable. It was a visual reminder that while the storm has destroyed so much, the Word of God still stands.
@@ -57,6 +59,8 @@ We would love to feature others in our church who have provided relief efforts i
 {{< /callout >}}
 
 ## A Thankful Spirit is a Healthy Spirit
+
+{{< spotify type="episode" id="2NjRML1Wvf5F9IwUv7LtF8" width="100%" >}}
 
 Thanksgiving is a wonderful time to express gratitude and reflect upon our blessings, but there are physical and spiritual benefits to having a thankful heart all year. When we take the time to appreciate our blessings and give thanks, there are positive changes in our lives. We can introduce more gratitude in our daily life instead of reserving it for one Thursday in November.
 
