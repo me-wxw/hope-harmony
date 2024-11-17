@@ -10,6 +10,8 @@ draft: false
 
 ![landscape](/images/fall-road.jpg)
 
+{{% trinity-audio %}}
+
 ## Welcome
 
 My dad has started leaving sweet potato recipes laying around the house, a telltale sign that Thanksgiving is near. Our family loves Thanksgiving. In the morning, the guys go rabbit hunting, more aptly called “woods walking,” and the ladies watch the parade and cook. In the afternoon, we sit down for a good meal and a good laugh about the cooking mishaps, like when the turkey caught on fire or the time my mom left the sugar out of the sweet potato pies. We ruminate over the blessings in our lives and recognize God deserves our praise for all things, great and small. I am especially thankful for the church family of MEBC. Thank you to each of you for creating a loving, caring, and comforting community of believers.

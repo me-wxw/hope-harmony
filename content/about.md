@@ -12,7 +12,7 @@ Hope & Harmony is the official newsletter of **Mary Elizabeth Baptist Church**. 
 link=`https://maps.app.goo.gl/4yMJ41JvgxJmnYcR8`
 title="Mary Elizabeth Baptist Church"
 icon="location-marker"
-image="images/christmas-bible.jpg"
+image="images/mebc-air.jpg"
 tag="Address"
 method="Fill"
 options="1000x400 webp">}}
