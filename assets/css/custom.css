@@ -4,12 +4,12 @@
   --primary-lightness: 39%;
   --emerald-50: #ecfdf5;
   --emerald-100: #d1fae585;
-  --emerald-900: #064e3b80;
+  --emerald-900: #064e3b85;
   --emerald-950: #022c22;
 }
 
 .nav-container-blur:is(html[class~="dark"] *) {
-  background-color: var(--emerald-950) !important;
+  background-color: var(--emerald-900) !important;
 }
 
 body:is(html[class~="dark"] *) {
