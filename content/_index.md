@@ -10,7 +10,7 @@ sidebar:
 
 Welcome to the **Hope & Harmony** Newsletter!
 
-## {{< icon "bookmark">}} Featured Articles
+## Featured Articles
 
 {{< cards cols="2">}}
 
@@ -30,7 +30,7 @@ Welcome to the **Hope & Harmony** Newsletter!
 
 {{< /cards >}}
 
-## {{< icon "cursor-click">}} Explore
+## Explore
 
 {{< cards cols="2">}}
 
@@ -52,7 +52,7 @@ Welcome to the **Hope & Harmony** Newsletter!
 
 {{< /cards >}}
 
-## {{< icon "bell">}} Upcoming Events
+## Upcoming Events
 
 {{< cards cols="2">}}
 
