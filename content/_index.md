@@ -13,9 +13,9 @@ sidebar:
 {{< cards cols="2">}}
 
 {{< card
-  link="docs/november-2024/#helping-hands-after-hurricane-helene"
-  title="Helping Hands after Hurricane Helene"
-  image="images/wnc.jpg"
+  link="docs/december-2024/#a-gift-passed-down"
+  title="A Gift Passed Down"
+  image="images/christmas-bible.jpg"
   method="Fill"
   options="1000x400 webp" >}}
 

@@ -16,6 +16,8 @@ Okay, I have a confession to make. I started listening to Christmas music in Oct
 
 ## Advent Devotionals
 
+![landscape](/images/advent-wreath.jpg)
+
 ### Week 1 - Gift of Hope
 
 #### Liz E
@@ -24,7 +26,7 @@ The theme of the first week of advent is “Hope.” I feel hope as I read Isaia
 
 Finally, this verse states “the government will rest on his shoulders.” In a world of strife and corruption, we are given the hope of a Savior that will bring peace and stability. Jesus will be king of everything. I had a professor in college that used a picture of Atlas from Greek mythology holding the Earth on his back during a lecture; Atlas is in a lunge position with the world on his back as he appears to be weighed down by his load. In contrast, Isaiah 9:6 depicts Jesus as sufficient to bear the load with it simply resting on his shoulders. While it is a profound responsibility and a burden to be shouldered, Jesus does it with grace. What a wonderful thing in which to hope.
 
-> "For to us a child is born, to us a son is given, and the government will be on his shoulders. And he will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace."<br>Isaiah 9:6
+> "For to us a child is born, to us a son is given, and the government will be on his shoulders. And he will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace."<br>[Isaiah 9:6](https://www.bible.com/bible/111/isa.9.6)
 
 ### Week 2 - Name, Please
 
@@ -34,9 +36,10 @@ The story is told of when I was born my father rushed into his parents’ house 
 
 I have taken a lot of ribbing over the years for having the name Cabinet Drain for a couple of days. Now when asked for my full name I don’t use this lighthearted misinterpretation, but my legal name that is on my birth certificate. My name is Who I am. Good or bad we are known by our name. Blinded Jewish scholars think that Christians have misinterpreted the prophecy of Isaiah 9:6 and err when they teach that it refers to Jesus of Nazareth as it’s fulfillment. They argue that the prophecy was of Hezekiah and the names were of Jehovah (the Father) and not the son. They refer to verb tenses, Hebrew sentence structure and a host of other less than convincing objections. But Hezekiah is a poor example of a great light in darkness; yoke breaker; gladness bringer and a never-ending ruler ushering in great peace as found in Isaiah’s prophecy. There must be a better bearer of Isaiah’s wonderful messianic names!
 
-I found out who by my own discovery and quite unwittingly when:
-My burden of sin and guilt troubled my dark heart, and I cried out to God for peace, Jesus said “put your trust in me for I am the Prince of Peace”. I experienced peace that is indescribable.
-When at the end of my wits I pray for direction because the stakes are so great, Jesus says “trust and obey for I am the Wonderful Counselor”. Then I walk in faith and my steps are sure and my companion is the Lord.  
+I found out who by my own discovery and quite unwittingly when: My burden of sin and guilt troubled my dark heart, and I cried out to God for peace, Jesus said “put your trust in me for I am the Prince of Peace”. I experienced peace that is indescribable.
+
+When at the end of my wits I pray for direction because the stakes are so great, Jesus says “trust and obey for I am the Wonderful Counselor”. Then I walk in faith and my steps are sure and my companion is the Lord.
+
 Standing at the graveside of my loved ones and realizing my own mortality I cower in fear, Jesus says “Do not be afraid I Am the eternal God, and I have adopted you and all who trust in me. You will be with me eternally, victorious in heaven.
 
 There is a name above all others and his name is Jesus! He has proven Himself to fulfill all the prophetic names “Wonderful Counselor, Mighty God and Everlasting father” and especially in this Christmas season, “The Prince of Peace”.
@@ -47,7 +50,7 @@ There is a name above all others and his name is Jesus! He has proven Himself to
 
 The Christmas story hits me differently now that I am a mother. My heart aches for Mary. Imagine being a young, unmarried woman and being told you were pregnant with the Messiah! Being pregnant out of wedlock is scary enough, especially in the time she lived. But, to know that you were giving birth to and charged with the responsibility of raising Jesus Christ! Talk about pressure!! But then, the more I think about it, the more I realize that the children God blessed me with aren’t really mine. They belong to Him. He was good enough to give them to me for a short time. In the time I have them, I plan to pour love and light into them, show them how to be the hands and feet of Jesus in this sometimes ugly world, teach them how to rely on God - even when it seems he isn’t listening. Motherhood has taught me that Jesus is my only hope! He has a plan that he hasn’t let me in on. He knows how my life and the lives of my children will play out. I have to trust that he has good things in store and the hard things are meant for a greater purpose. Motherhood has also made me realize how much He truly loves us. He loves each of us, no matter how far we may have strayed, more than we love our own children. Hard to fathom, isn’t it? But, that’s the good news!!!! It’s true!! We should be shouting it from the rooftops! God kept his word, he brought his sinless son into this world through a virgin. He lived a blameless, yet persecuted life for me and for you and for every single person on this planet. Then he died a horrible death to pay for all of mine and your sins. Through his death he wiped our slates clean. He paid the price. You’re never too far from God. Just like our earthly parents, that love endures! He’s waiting, longing for a relationship, even if you’ve messed up. Just call on the holy name of Jesus and he will come running with open arms. What an amazing blessing to be loved like that!
 
-> "Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel."<br>Isaiah 7:14
+> "Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel."<br>[Isaiah 7:14](https://www.bible.com/bible/111/isa.7.14)
 
 ### Week 4 - God is Faithful
 
@@ -60,11 +63,13 @@ Jesus has so freely given to us the gift of forgiveness and healing. In order fo
 
 The world has changed a lot since that day Mary and Joseph welcomed Baby Jesus in awe. The world has changed a lot since the day our precious Lord agonized and died on that cross, then resurrected, defeating death! Human sin has made the world a hard place. Although the world has changed, God does not change. God is faithful! His promises remain available to our sincere hearts.
 
-> "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed. We all, like sheep, have gone astray, each of us has turned to our own way; and the Lord has laid on him the iniquity of us all."<br>Isaiah 53:3-6
+> "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed. We all, like sheep, have gone astray, each of us has turned to our own way; and the Lord has laid on him the iniquity of us all."<br>[Isaiah 53:3-6](https://www.bible.com/bible/111/isa.53.3)
 
 ## A Gift Passed Down
 
 ### With Connie C
+
+![landscape](/images/ceramic-nativity.jpg)
 
 A big part of the Christmas season for the children and members of our church is the Christmas play. Connie Carter is the writer and director of this play; she has served in this role for 6 years now. Years of COVID and different circumstances have put her creative strengths to the test and we have enjoyed the results including a live nativity with real animals under the stars! As a writer and director, Connie sees the play, not only as a creative outlet, but as a unique ministry to the children and people involved and the audience.
 
@@ -90,6 +95,8 @@ Just as we decorate our homes, wrap gifts, and write Christmas cards in preparat
 
 ## Events
 
+![landscape](/images/wreath-truck.jpg)
+
 - Christmas Play - `December 15, 6:00 PM`
 - Christmas Eve Service
 - New Years Service
@@ -106,8 +113,7 @@ This year’s Christmas play will occur on Dec 15th at 6 PM. Immediately after, 
 
 ## Wisdom Corner
 
-> And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth.
-> --John 1:14
+> "And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth."<br>[John 1:14](https://www.bible.com/bible/1/JHN.1.14)
 
 ## Good for the Soul
 
