@@ -85,6 +85,8 @@ This year’s Christmas play focuses on gifts from God, and we are blessed to ha
 
 ## Season’s Waitings
 
+![landscape](/images/christmas-wonderland.png)
+
 The season of Christmas has always been a favorite of mine. I love the traditions, the music, the decorations, and believe it or not the waiting. It’s almost as if everything that I associate with Christmas time is curated to bring an almost electric charge to the anticipation of Christmas Day. I can recall with heaping nostalgia the mounting excitement that came once the decorations were up and continued to increase with each Christmas carol and each card in our little church mailbox. The Christmas play really ignited the excitement that was almost set to volcanic levels once school let out. Then it was finally Christmas Eve. A feeling of excitement courses through me even now as I reminisce about the ride home in the dark after our family celebration knowing the next morning was Christmas.
 
 I relish this waiting, but I do not generally like to wait. You’ll not find me grinning ear to ear in search of the longest check-out line at the grocery store. I don’t go to the DMV just to enter the queue. A stubborn loading screen on the computer does not send me into carols of joy. So ,why do I feel ecstatic about a season that is built around a month of waiting? I know what I’m waiting for is wonderful. As a kid it was the excitement of gifts and Christmas celebrations, as an adult it is the celebration of advent. I wait expectantly.
@@ -93,7 +95,9 @@ The coming of the Messiah was prophesied since man’s original sin when God sai
 
 As Christians we are now awaiting Christ’s second coming, and we are to wait expectantly as Jesus describes with the parable of the servants awaiting their master in Luke 12:35-40. We have two examples of this in the story of the birth of Jesus, Simeon and Anna. These devout people did not simply look forward to the coming of the Messiah; they were devoted to serving God and listening to the Spirit. Simeon was “guided by the Spirit” (Luke 2:27), and Anna “did not leave the temple, serving God night and day with fasting and prayers.” (Luke 2:37).
 
-Just as we decorate our homes, wrap gifts, and write Christmas cards in preparation for Christmas, we are to prepare our hearts for the second coming of Christ. We are to be actively seeking his Kingdom. Keeping a close guard on our minds and hearts knowing our Master is returning. Doing good works, producing fruit, and sharing His Gospel with anticipation and excitement of the perfect and complete wonder that is coming.
+> Just as we decorate our homes, wrap gifts, and write Christmas cards in preparation for Christmas, we are to prepare our hearts for the second coming of Christ.
+
+We are to be actively seeking his Kingdom. Keeping a close guard on our minds and hearts knowing our Master is returning. Doing good works, producing fruit, and sharing His Gospel with anticipation and excitement of the perfect and complete wonder that is coming.
 
 ## Events
 
@@ -120,4 +124,4 @@ This year’s Christmas play will occur on Dec 15th at 6 PM. Immediately after, 
 
 ## Good for the Soul
 
-![landscape](/images/dec-comic.png)
+![landscape](/images/dec-comic.png "Sketch by Josh E")
