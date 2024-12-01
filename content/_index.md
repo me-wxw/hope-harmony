@@ -8,8 +8,6 @@ sidebar:
   open: true
 ---
 
-Welcome to the **Hope & Harmony** Newsletter!
-
 ## Featured Articles
 
 {{< cards cols="2">}}

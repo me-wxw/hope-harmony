@@ -1,6 +1,8 @@
 ---
 title: Event 2
 date: 2018-01-01
+event: 2024-12-15
+image: images/waves.jpg
 draft: true
 authors:
   - name: Josh

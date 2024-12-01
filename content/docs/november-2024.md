@@ -1,11 +1,11 @@
 ---
+title: November 2024
+date: 2024-11-13T05:00:00.000Z
+draft: false
 cascade:
   type: docs
 sidebar:
   open: true
-title: November 2024
-date: 2024-11-13T05:00:00.000Z
-draft: false
 ---
 
 ![landscape](/images/fall-road.jpg)

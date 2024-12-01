@@ -1,11 +1,11 @@
 ---
+title: October 2024
+date: 2024-10-16T04:00:00.000Z
+draft: false
 cascade:
   type: docs
 sidebar:
   open: true
-title: October 2024
-date: 2024-10-16T04:00:00.000Z
-draft: false
 ---
 
 ![landscape](/images/north-lights-nc.webp)
