@@ -55,16 +55,16 @@ sidebar:
 {{< cards cols="2">}}
 
 {{< card
-  link="events/#brotherhood-breakfast"
-  title="Brotherhood Breakfast"
-  image="images/bfast.jpg"
+  link="events/#christmas-play"
+  title="Christmas Play"
+  image="images/ceramic-nativity.jpg"
   method="Fill"
   options="1000x400 webp" >}}
 
 {{< card
-  link="events/#christmas-play"
-  title="Christmas Play"
-  image="images/ceramic-nativity.jpg"
+  link="events/#christmas-eve-service"
+  title="Christmas Eve Service"
+  image="images/nativity-scene.jpg"
   method="Fill"
   options="1000x400 webp" >}}
 

@@ -12,7 +12,7 @@ sidebar:
 
 ## Welcome
 
-Okay, I have a confession to make. I started listening to Christmas music in October. Yes, I’m one of those people. Finally, the Christmas season is in full swing, and Advent is upon us! In this issue, we have included one devotional for each week of Advent, and the scripture will match that week’s sermon. We hope that the devotionals and articles add a feeling of hope, peace, joy, and love to your Christmas. It is such a special time for us as Christians, and from the bottom of my heart I wish each of you a very Merry Christmas and a blessed New Year.
+Okay, I have a confession to make. I started listening to Christmas music in October. Yes, I’m one of those people. Finally, the Christmas season is in full swing, and Advent is upon us! In this issue, we have included one devotional for each week of Advent, and the scripture will match that week’s sermon. We hope that the devotionals and articles add a feeling of hope, peace, joy, and love to your Christmas. It is such a special time for us as Christians, and from the bottom of my heart I wish each of you a very **Merry Christmas** and a blessed **New Year**.
 
 ## Advent Devotionals
 
@@ -43,6 +43,8 @@ When at the end of my wits I pray for direction because the stakes are so great,
 Standing at the graveside of my loved ones and realizing my own mortality I cower in fear, Jesus says “Do not be afraid I Am the eternal God, and I have adopted you and all who trust in me. You will be with me eternally, victorious in heaven.
 
 There is a name above all others and his name is Jesus! He has proven Himself to fulfill all the prophetic names “Wonderful Counselor, Mighty God and Everlasting father” and especially in this Christmas season, “The Prince of Peace”.
+
+![landscape](/images/virgin-with-angels.jpg "The Virgin With Angels - William-Adolphe Bouguereau, 1900")
 
 ### Week 3 - Shout it from the Rooftops
 
@@ -97,9 +99,10 @@ Just as we decorate our homes, wrap gifts, and write Christmas cards in preparat
 
 ![landscape](/images/wreath-truck.jpg)
 
+- Advent Begins - `December 1`
 - Christmas Play - `December 15, 6:00 PM`
-- Christmas Eve Service
-- New Years Service
+- Christmas Eve Service - `December 24, 6:30 PM`
+- Brotherhood Breakfast - `December 29, 8:00 AM`
 
 ## MEBC Updates
 

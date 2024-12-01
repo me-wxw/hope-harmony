@@ -16,6 +16,10 @@ tags:
 excludeSearch: true
 type: "test"
 layout: "single"
+sitemap:
+  priority: 0
+_build:
+  list: false
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files.

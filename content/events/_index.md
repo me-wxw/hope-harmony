@@ -8,6 +8,16 @@ _build:
   list: false
 ---
 
+### Brotherhood Breakfast - December
+
+- December 29
+- Time: 8:00 AM
+
+### Christmas Eve Service
+
+- Date: December 24
+- Time: 6:30 PM
+
 ### Christmas Play
 
 - **Date:** December 15
@@ -17,7 +27,7 @@ _build:
 
 - **Date:** December 1
 
-### Brotherhood Breakfast
+### Brotherhood Breakfast - November
 
 - **Date:** November 24
 - **Time:** 8:00 AM
@@ -27,7 +37,7 @@ _build:
 - **Date:** October 31
 - **Time:** 6:30 PM
 
-### Men’s Breakfast
+### Brotherhood Breakfast - October
 
 - **Date:** October 27
 - **Time:** 8:00 AM
