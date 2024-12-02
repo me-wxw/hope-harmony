@@ -116,7 +116,7 @@ Rather than shoeboxes, bags were used in order to fit the items for the children
 
 ### Christmas Play
 
-This year’s Christmas play will occur on Dec 15th at 6 PM. Immediately after, There will be a soup supper in the fellowship Hall. Crockpot of soup and crackers or bread option.We ask all member families to bring a crockpot of soup and crackers or bread option.
+This year’s Christmas play will occur on Dec 15th at 6 PM. Immediately after, There will be a soup supper in the fellowship Hall. Crockpot of soup and crackers or bread option. We ask all member families to bring a crockpot of soup and crackers or bread option.
 
 ## Wisdom Corner
 
