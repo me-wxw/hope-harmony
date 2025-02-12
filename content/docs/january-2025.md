@@ -1,7 +1,11 @@
 ---
 date: "2025-02-11T19:26:17-05:00"
-draft: true
 title: "January 2025"
+draft: false
+cascade:
+  type: docs
+sidebar:
+  open: true
 ---
 
 ## Welcome
