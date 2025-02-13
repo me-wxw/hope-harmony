@@ -8,11 +8,15 @@ sidebar:
   open: true
 ---
 
+![landscape](/images/new-year-sparkler.jpg)
+
 ## Welcome
 
 Welcome to a new volume of _Hope & Harmony_. We are looking forward to bringing stories, articles, information, and enjoyable content for the new year! Our first issue of 2025 begins with an article to help fuel a new year founded on God’s grace. We also highlight some recent baptisms that occurred in our church. Finally, we have summated a list of some ongoing events and opportunities so you can experience spiritual growth and share in the support and fellowship of our church. Looking forward to another year of grace, love, and victory in Jesus.
 
 ## Grace Sufficient, Power Perfected
+
+![landscape](/images/mountain-clouds.jpg)
 
 > But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me.<br>[2 Corinthians 12:9](bible.com/bible/111/2co.12.9)
 
@@ -25,6 +29,8 @@ This year, we must remember it is in our weakness that Jesus’ power is made pe
 What a beautiful picture of love, in our brokenness, weakness, and despair God meets us where we are and measures out to each of us exactly what we need, and all we have to do is have faith. So, if you find yourself in the valley or a moment of weakness this year know you are standing in God’s grace. Allow it to move in you and through you, and observe Jesus’ power perfected.
 
 ## Celebrating Bapstims
+
+![landscape](/images/underwater.jpg)
 
 With families, church members, and visitors as witnesses, Ava, Scarlet, and Malachi made public professions of faith on January 26th. It was a unique and heartwarming service as each child’s father performed the baptism. What a beautiful way to begin the year with the symbolic act of washing away of sin and being born again in Jesus. We are blessed to have each of these wonderful children united with us in the family of God. May we take on the good work of teaching them and supporting them in their walk with the Lord.
 
