@@ -1,25 +1,25 @@
 :root {
-  --primary-hue: 160deg;
+  --primary-hue: 190deg;
   --primary-saturation: 84%;
   --primary-lightness: 39%;
-  --emerald-50: #ecfdf5;
-  --emerald-100: #d1fae585;
-  --emerald-900: #064e3b85;
-  --emerald-950: #022c22;
+  /*--emerald-50: #ecfdf5;*/
+  /*--emerald-100: #d1fae585;*/
+  /*--emerald-900: #064e3b85;*/
+  /*--emerald-950: #022c22;*/
 }
 
-.nav-container-blur:is(html[class~="dark"] *) {
-  background-color: var(--emerald-900) !important;
-}
-
-body:is(html[class~="dark"] *) {
-  color: var(--emerald-50);
-}
-
-.nav-container-blur {
-  background-color: var(--emerald-100);
-}
-
-body {
-  color: var(--emerald-950);
-}
+/*.nav-container-blur:is(html[class~="dark"] *) {*/
+/*  background-color: var(--emerald-900) !important;*/
+/*}*/
+/**/
+/*body:is(html[class~="dark"] *) {*/
+/*  color: var(--emerald-50);*/
+/*}*/
+/**/
+/*.nav-container-blur {*/
+/*  background-color: var(--emerald-100);*/
+/*}*/
+/**/
+/*body {*/
+/*  color: var(--emerald-950);*/
+/*}*/
