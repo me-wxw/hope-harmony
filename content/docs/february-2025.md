@@ -48,6 +48,10 @@ In the spirit of Valentine’s Day, the children of MEBC have shared a few of th
 - Saying kind words
 - Share our food
 
+## Celebrating Another Baptism
+
+We are overjoyed that yet another young person has made a public profession of faith, and joined our church as a brother in Christ. Weston was baptized on February 16th. Again, we were blessed by his family being present in the service. Weston, his mother, Connie, and his brother, Cameron sang a beautiful song about following the will of God. May we as a church nurture Weston and continue to encourage him as he continues to seek God’s will.
+
 ## Loving like Jesus
 
 When I think of loving like Jesus, I am reminded of our group’s Bible studies during a mission trip in Honduras. The pastor who led the group encouraged us to consider loving “practically.” He acknowledged that God and Jesus’ love for us is miraculous and hard to conceptualize, but Jesus also loved in very practical ways. He healed the sick, he grieved with the hurting, he fed the 5,000; all of these moments showed that he had empathy, compassion, and love for the people to whom he was ministering. Jesus’ miracles weren’t meaningless, mystical feats; they left an impact and changed lives in response to people’s needs. Jesus’ ultimate sacrifice is to meet our most ultimate need: salvation.
@@ -60,6 +64,47 @@ Jesus knew that his time with his disciples was coming to an end. These men were
 
 We can take Jesus’ lessons in loving into our own lives as we strive to be more Christ-like. Introducing people to Jesus isn’t just in a verbal sharing of the gospel it is living and loving in a way that makes him evident to the people around us. Just like Jesus, we must take opportunities to serve others humbly and minister to their needs. In a month that celebrates love, let us turn to Jesus, the most ultimate source of love, to fill our lives and teach us how to love others.
 
+## Upcoming Events
+
+- Wiser Women Bible study - `Mondays, 6:30 PM`
+- Sisters in Christ Bible Study - `Mondays, 7:00 PM`
+- Revival - `Feb 23` to `Mar 16` - `Sundays, 11:00 AM`
+- Brotherhood Breakfast - `Feb 23, 8:00 AM`
+
+{{% details title="Ladies Meeting" closed="true" %}}
+
+- Hillcrest Baptist
+- `March 1, 10 AM`
+
+{{< callout emoji="🎟️" >}}
+Requires Registration
+{{< /callout >}}
+
+{{% /details %}}
+
+{{% details title="Baptists on Mission Training" closed="true" %}}
+
+- Hickory Grove Baptist
+- `March 1`
+
+{{< callout emoji="🎟️" >}}
+Requires Registration
+{{< /callout >}}
+
+{{% /details %}}
+
+## Wisdom Corner
+
+> No one has ever seen God; but if we love one another, God lives in us and his love is made complete in us.<br>1 John 4:12
+
+## MEBC Highlights
+
+### Women’s Groups Bible Studies
+
+Two Women’s groups in the church have elected to begin Bible studies on Monday nights. Sisters in Christ, the younger women, meet at 7:00. The Wiser Women meet at 6:30. This time of fellowship and studying the Word of God have been a tremendous blessing in each group and they encourage every woman in our church to attend and extend the invitation to visitors.
+
 ## Good for the Soul
 
-## Announcements
+I’m a sucker for real-life humour, so when I saw this story from Reader’s Digest, I had to share it with all of you!
+
+> “Every Valentine’s Day our campus newspaper has a section for student messages. Last year my roommate surprised his girlfriend with roses and dinner at a fancy restaurant. When they returned from their date, she leafed through the paper to see if he had written a note to her. Near the bottom of one page she found: ‘Bonnie, what are you looking here for? Aren’t dinner and flowers enough? Love, Scott.'”<br>— Contributed by Richard B. Blackwell
