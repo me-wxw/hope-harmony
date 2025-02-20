@@ -11,7 +11,9 @@ sidebar:
 
 {{< cards cols="1">}}
 
-{{< card link="january-2025" title="January 2024" image="images/jan-hero.jpg" method="Fill" options="1000x400 webp">}}
+{{< card link="february-2025" title="February 2025" image="images/pink-clouds.jpg" method="Fill" options="1000x400 webp">}}
+
+{{< card link="january-2025" title="January 2025" image="images/jan-hero.jpg" method="Fill" options="1000x400 webp">}}
 
 {{< card link="december-2024" title="December 2024" image="images/christmas-bible.jpg" method="Fill" options="1000x400 webp">}}
 
