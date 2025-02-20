@@ -79,7 +79,7 @@ We can take Jesus’ lessons in loving into our own lives as we strive to be mor
 - Revival - `Feb 23` to `Mar 16` - `Sundays, 11:00 AM`
 - Brotherhood Breakfast - `Feb 23, 8:00 AM`
 
-{{% details title="Ladies Meeting" closed="true" %}}
+{{% details title="Ladies Meeting" %}}
 
 - Hillcrest Baptist
 - `March 1, 10 AM`
@@ -90,7 +90,7 @@ Requires Registration
 
 {{% /details %}}
 
-{{% details title="Baptists on Mission Training" closed="true" %}}
+{{% details title="Baptists on Mission Training" %}}
 
 - Hickory Grove Baptist
 - `March 1`
