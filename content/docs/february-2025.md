@@ -10,6 +10,8 @@ sidebar:
 
 ## Welcome
 
+![landscape](/images/pink-hearts.jpg)
+
 The month of February hosts several special holidays and monthly observances like Black History month, American Heart Month, and National Love Your Pet Day (Feb 20th, or every day if your dogs are as spoiled as ours). One day in particular has been one of my favorites since I was a little girl, Valentine’s Day. I remember picking out Valentines and candies to hand out to my friends at school and church. I enjoy getting flowers and eating chocolate. I think the most special part is celebrating love and having a day all about expressing love to those around us.
 
 As Christians, this should be our mindset all year long. After all, Jesus said in John 13:34, “A new command I give you: Love one another. As I have loved you, so you must love one another.” When Jesus was asked which was the greatest commandment he replied in Mark 12:30-31 “Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’ The second is this: ‘Love your neighbor as yourself.’ There is no commandment greater than these.”
@@ -19,6 +21,8 @@ Let’s bring a little bit of the Valentine’s spirit into everyday life, and s
 In this month’s issue we will explore Jesus’ love for us, a story of real life love, an article on living like Jesus, and even some ideas of sharing God’s love from our little love bugs. Sending lots of LOVE to each of you (but you’ll have to buy your own chocolates. 😄)
 
 ## Jesus’ Love
+
+![landscape](/images/jesus-love-feb.jpg)
 
 As Christians, we accept that God loves us. We sing about it in hymns, read about it in scripture, and see it in our lives. While there are many ways His love is manifested and proven, one very powerful and personal expression of this love is Jesus’ prayer in John 17.
 
@@ -48,9 +52,13 @@ In the spirit of Valentine’s Day, the children of MEBC have shared a few of th
 - Saying kind words
 - Share our food
 
+![landscape](/images/val-church.png "small-town church decorated for Valentine's day, on top of a foothill, decorated with pink and red roses, tilt-shift photography")
+
 ## Celebrating Another Baptism
 
 We are overjoyed that yet another young person has made a public profession of faith, and joined our church as a brother in Christ. Weston was baptized on February 16th. Again, we were blessed by his family being present in the service. Weston, his mother, Connie, and his brother, Cameron sang a beautiful song about following the will of God. May we as a church nurture Weston and continue to encourage him as he continues to seek God’s will.
+
+![landscape](/images/baptism-christ.png "The Baptism of Christ, Francisco de Herrera (1590-1654)")
 
 ## Loving like Jesus
 
