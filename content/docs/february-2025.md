@@ -12,7 +12,7 @@ sidebar:
 
 ![landscape](/images/pink-hearts.jpg)
 
-The month of February hosts several special holidays and monthly observances like Black History month, American Heart Month, and National Love Your Pet Day (Feb 20th, or every day if your dogs are as spoiled as ours). One day in particular has been one of my favorites since I was a little girl, Valentine’s Day. I remember picking out Valentines and candies to hand out to my friends at school and church. I enjoy getting flowers and eating chocolate. I think the most special part is celebrating love and having a day all about expressing love to those around us.
+The month of February hosts several special holidays and monthly observances like **Black History Month**, **American Heart Month**, and **National Love Your Pet Day** (Feb 20th, or every day if your dogs are as spoiled as ours). One day in particular has been one of my favorites since I was a little girl, **Valentine’s Day**. I remember picking out Valentines and candies to hand out to my friends at school and church. I enjoy getting flowers and eating chocolate. I think the most special part is celebrating love and having a day all about expressing love to those around us.
 
 As Christians, this should be our mindset all year long. After all, Jesus said in John 13:34, “A new command I give you: Love one another. As I have loved you, so you must love one another.” When Jesus was asked which was the greatest commandment he replied in Mark 12:30-31 “Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’ The second is this: ‘Love your neighbor as yourself.’ There is no commandment greater than these.”
 
