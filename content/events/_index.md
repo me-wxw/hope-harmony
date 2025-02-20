@@ -8,9 +8,79 @@ _build:
   list: false
 ---
 
+## Upcoming
+
+### Ladies Meeting
+
+- Location: Hillcrest Baptist
+- Date: March 1, 10:00 AM
+- Requires Registration
+
+### Baptists on Mission Training
+
+- Location: Hickory Grove Baptist
+- Date: March 1
+- Requires Registration
+
+## Recurring
+
+### Adult Bible Study
+
+- Recurring: Wednesdays
+- Time: 7:00 PM
+
+### Brotherhood Breakfast
+
+- Date: 4th Sunday
+- Recurring: Every month
+- Time: 8:00 AM
+
+### Children’s Ministries - 3rd - 6th Grade
+
+- Recurring: Wednesdays
+- Time: 7:00 PM
+
+### Deaf Ministry Sundays
+
+- Recurring: Sundays
+  - Sunday School - 9:45 AM
+  - Sermon - 10:45 AM
+
+### Revival
+
+- Dates: Sundays, Feb 23rd to Mar 16th
+- Time: 11:00 AM
+
+### Sisters in Christ
+
+- Recurring: Mondays
+- Time: 7:00 PM
+
+### Sisters in Christ Bible Study
+
+- Recurring: Mondays
+- Time: 7:00 PM
+
+### Sunday School - All Ages
+
+- Recurring: Sundays
+- Time: 10:00 AM
+
+### Wiser Women - Bible study
+
+- Recurring: Mondays
+- Time: 6:30 PM
+
+### Youth Group - 7th - 12th Grades
+
+- Recurring: Wednesdays
+- Time: 7:00 PM
+
+## 2024
+
 ### Brotherhood Breakfast - December
 
-- December 29
+- Date: December 29
 - Time: 8:00 AM
 
 ### Christmas Eve Service
